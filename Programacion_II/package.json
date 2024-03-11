@@ -1,0 +1,12 @@
+{
+  "name": "entrega-proyecto-bsm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BSM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan Sebastian Murcia Palma",
+  "license": "ISC"
+}
